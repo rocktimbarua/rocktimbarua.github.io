@@ -3,7 +3,7 @@
 Welcome to my professional portfolio repository. This project is a responsive, animated web application engineered to showcase interactive business intelligence frameworks, data summarization models, and regulatory compliance workflows.
 
 ## 🚀 Live Demo
-You can view the live, animated website here: [https://yourusername.github.io](https://yourusername.github.io) *(Replace with your live link)*
+You can view the live, animated website here:(https://rocktimbarua.github.io) 
 
 ## 📊 Core Highlights Showcase
 * **Interactive Dashboards:** Visualized tracking sheets mapping cross-functional HR/Payroll outlays, critical MFS field KPIs, and clearing/forwarding cost optimization frameworks.
