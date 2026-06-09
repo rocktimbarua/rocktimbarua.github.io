@@ -1,4 +1,4 @@
- Rocktim Barua | Compliance Officer & Business Analyst Portfolio
+## Rocktim Barua | Compliance Officer & Business Analyst Portfolio
 
 Welcome to my professional portfolio repository. This project is a responsive, animated web application engineered to showcase interactive business intelligence frameworks, data summarization models, and regulatory compliance workflows.
 
